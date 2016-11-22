@@ -1,0 +1,176 @@
+font-family: sans-serif;
+   /* outline: green solid 1px;*/
+}
+body{
+	font-size: 13px;
+}
+.search-box .fa-search{
+	margin-left: -25px;
+}
+.search-box input{
+	padding: 7px;
+	font-size: 15px;
+	margin-top: 28px;
+}
+.name{
+	margin-left: 25px;
+    position: absolute;
+    margin-top: 47px;
+    color:#BDBDBD;
+}
+.icono{
+	margin-top: 217px;
+    margin-left: 244px;
+    width: 10%;
+}
+.estrenos img{
+	width: 100%;
+}
+.cartelera img{
+	width: 100%;
+}
+#copyright{
+	font-size: 0.7em;
+	text-align: center;
+	color:black;
+	margin:10px;
+}
+.hero .banner{
+	background: #333 url(../img/banner.jpg)no-repeat;
+	background-size: contain;
+	background-size: 80%;
+}
+.large{
+	color:#BDBDBD;
+}
+.movie-info{
+	padding: 30px;
+}
+.separador{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.b-verde{
+	color:#01DF74;
+	border: 1px solid;
+	border-radius:  10px;
+	padding: 7px;
+}
+.movie-info{
+	color:#BDBDBD;
+
+}
+table{
+	padding-top: 15px;
+	width: 100%;
+}
+.amarillo , .naranja{
+	width: 150px;
+	height: 40px;
+	color:white;
+	border-radius: 7px;
+}
+.amarillo{
+	background-color: #FACC2E;
+	margin-top: 20px;
+	border:1px solid #FACC2E;
+}
+
+.naranja{
+	background-color: #FE9A2E;
+	margin-top: 12px;
+	margin-bottom: 25px;
+	border:1px solid #FE9A2E;
+}
+.estrenos{
+	background-color: #FACC2E;
+	margin-left: 63px;
+    margin-right: 49px;
+    padding-bottom: 20px;
+    margin-bottom: -15px;
+}
+
+.trailer{
+	margin-left: 63px;
+    margin-right: 49px;
+}
+.estrenos img{
+	margin-top: 20px;
+
+	width: 149px;
+	height: 213px;
+}
+.trailer{
+	margin-top: 15px;
+}
+.contenido{
+	padding-top: 50px;
+	margin-left: 40px;
+}
+small{
+		color:#BDBDBD;
+		font-size: 18px;
+}
+.info-contenido p .compra{
+	font-size: 30px;
+}
+.comentario{
+	font-size: 13px;
+	color: red;
+	color:#B45F04;
+}
+.cafe{
+	background-color:#B45F04;
+	width: 130px;
+	height: 60px;
+	color:white;
+	margin-top: 20px;
+	border-radius: 7px;
+	margin-bottom: 17px;
+	font-size: 13px;
+	border:1px solid #B45F04;
+}
+.cartelera img{
+	margin-top:40px;
+}
+.titulo-contenido{
+	color:#BDBDBD;
+	margin-bottom: 10px;
+}
+.titulo-contenido h4{
+	color:black;
+}
+.separator-contenido{
+	color:#BDBDBD;
+	margin-top: 20px;
+}
+
+.titulo-contenido ul{
+	list-style: none;
+}
+.titulo-contenido ul li{
+	list-style: none;
+	margin-top: 20px;
+}
+.contenido .mas a{
+	margin-top: 30px;
+	text-decoration: none;
+	color:#B45F04 ;
+}
+.contenido .mas {
+	margin-top: 40px;
+}
+.cartelera img{
+	width:263px;
+	height: 375px;
+}
+footer{
+	color: #848484;
+	margin-left: 62px;
+    margin-right: 62px;
+    background-color:#E6E6E6;
+    padding-top: 20px;
+}
+footer p{
+	margin-top: 20px;
+}
